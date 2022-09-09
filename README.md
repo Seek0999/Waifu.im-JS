@@ -55,4 +55,8 @@ Client.info({
 - Please note that if you don't provide a token, not all functions will work as some require a token to access the API.
 
 ## License
+<<<<<<< HEAD
 MIT © [Seek](https://github.com/Seek0999/Waifu.im-JS/blob/master/LICENSE)
+=======
+MIT © [Seek](https://github.com/Seek0999/Waifu.im-JS/blob/master/LICENSE)
+>>>>>>> b092169d3679d5838d8280ac476e11c48773dfc1
