@@ -2,7 +2,7 @@
   "name": "waifuim.js",
   "version": "1.0.1",
   "description": "Unofficial Waifu.im Wrapper Built In JavaScript",
-  "main": "src/WaifuClient.js",
+  "main": "src/Client.js",
   "keywords": [
     "Waifu.im",
     "Waifu",
