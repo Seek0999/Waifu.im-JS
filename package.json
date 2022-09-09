@@ -15,6 +15,12 @@
   "dependencies": {
     "node-superfetch": "^0.2.3"
   },
+  "repository": {
+    "url": "https://github.com/Seek0999/Waifu.im-JS/"
+  },
+  "bugs": {
+    "url": "https://github.com/Seek0999/Waifu.im-JS/issues/"
+  },
   "funding": {
     "type": "patreon",
     "url": "https://patreon.com/join/spixxbot"
