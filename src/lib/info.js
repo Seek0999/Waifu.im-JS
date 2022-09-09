@@ -25,7 +25,7 @@ module.exports = class Info {
         let builtURL = this.baseURL + 'info/?';
 
         if (typeof options.images == 'string') {
-            builtURL += `images=${builtURL}`;
+            builtURL += `images=${options.images}`;
         } else if (typeof options.images == 'object' && options.images !== null && options.images.length >= 1) {
             options.images.forEach(image => {
                 builtURL += `images=${image}&`;
